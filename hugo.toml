@@ -1,8 +1,8 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "/"
+baseURL = "https://2-56.io/"
 # Title of your website (required).
-title = "Hugoplate"
+title = "Soren Rademacher"
 # Your theme name
 theme = "hugoplate"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
@@ -71,7 +71,8 @@ resampleFilter = "Lanczos"
 ############################ Caches ##############################
 [caches]
 [caches.images]
-dir = ":resourceDir/_gen"
+# dir = ":resourceDir/_gen"
+dir = ":cacheDir/images"
 maxAge = "720h"
 
 [caches.assets]
