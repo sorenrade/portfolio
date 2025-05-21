@@ -11,10 +11,12 @@ name = "About"
 url = "/about"
 weight = 2
 
-[[main]]
-name = "Blog"
-url = "/blog"
-weight = 3
+# [[main]]
+# name = "Blog"
+# url = "/blog"
+# weight = 3
+
+# leaving for refrence #
 
 # [[main]]
 # name = "Elements"
