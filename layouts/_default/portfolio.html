@@ -36,7 +36,7 @@
               class="mb:md-0 {{ if not (modBool $i 2) }}
                 md:order-2
               {{ end }} md:col-5 mb-6">
-              {{ partial "video" (dict "Src" . "Alt" "feature video" "DisplayXL" "520x" "DisplayLG" "425x" "DisplayMD" "360x") }}
+              {{ partial "video" (dict "Src" . "width" "100%" "height" "auto" "autoplay" "true" "loop" "true" "muted" "true" "controls" "false" "class" "rounded-lg") }}
             </div>
           {{ end }}
           <div
