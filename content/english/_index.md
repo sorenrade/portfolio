@@ -25,7 +25,7 @@ features:
     button:
       enable: true
       label: Software Portfolio
-      link: "#"
+      link: "/portfolio_sw"
 
   - title: "Hardware Engineering"
     image: "/images/hw_engineering.jpg"
@@ -34,5 +34,5 @@ features:
     button:
       enable: true
       label: Hardware Portfolio
-      link: "#"
+      link: "/portfolio_hw"
 ---
