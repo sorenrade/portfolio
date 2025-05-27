@@ -11,6 +11,18 @@ name = "About"
 url = "/about"
 weight = 2
 
+[[main]]
+weight = 3
+name = "Portfolios"
+[[main]]
+parent = "Portfolios"
+name = "Software"
+url = "/portfolio_sw"
+[[main]]
+parent = "Portfolios"
+name = "Hardware"
+url = "/portfolio_hw"
+
 # [[main]]
 # name = "Blog"
 # url = "/blog"
@@ -23,14 +35,6 @@ weight = 2
 # url = "/elements"
 # weight = 3
 
-# [[main]]
-# weight = 4
-# name = "Pages"
-
-# [[main]]
-# parent = "Pages"
-# name = "Blog"
-# url = "/blog"
 
 # [[main]]
 # parent = "Pages"
