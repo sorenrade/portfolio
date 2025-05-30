@@ -10,14 +10,18 @@ banner:
 
 # Features
 features:
-  - title: "Software Engineering"
-    # image: "/images/hdr_software_inflight.jpg"
-    video: "/images/hwe/dummy.mp4"
-    content: >
-      A
-
-  - title: "Hardware Engineering"
+  - title: "Yoke"
     image: "/images/hw_engineering.jpg"
     content: >
-      BBB
+      Under Construction.
+
+  - title: "High Viscosity Printer"
+    image: "/images/hw_engineering.jpg"
+    content: >
+      Under Construction.
+
+  - title: "FLIP"
+    image: "/images/hw_engineering.jpg"
+    content: >
+      Under Construction.
 ---
