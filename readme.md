@@ -1,3 +1,20 @@
+<h1 align="center">Notes for Soren</h1>
+Media should be located in assets/images/. I suspect the other image folders are for
+downsampled images produced by the build process.
+
+
+Prose is located in content/english/_index.md & content/english/pages/portfolio_*.md
+
+
+Was unclear on how to refine the hugo template without duplicating all the code so unfortunately
+the portfolio pages are just a copy paste of themes/hugoplate/layouts/index.html located in layouts/_default/portfolio.html.
+Similarly, the main page is also a copy of themes/hugoplate/layouts/index.html located in layouts/index.html
+as of this writing the only difference is the removal of the banner image. 
+When updating the template (see instructions in default readme below, I guess one would need
+to manually diff and merge.)
+ 
+
+
 <h1 align="center">Hugo + Tailwind CSS Starter and Boilerplate</h1>
 
 <p align="center">Hugoplate is a free starter template built with Hugo, and Tailwind CSS v4.0, providing everything you need to jumpstart your Hugo project and save valuable time.</p>
