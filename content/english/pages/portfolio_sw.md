@@ -10,8 +10,24 @@ banner:
 
 # Features
 features:
+  - title: "Airhart"
+    video: /images/swe/software_inflight.mp4
+    content: >
+      At Airhart, our avionics stack is fully vertically integrated. Everything from
+      the sensor suite to the servos that actuate control surfaces is built in-house.
+      I lead the software team here and wrote our vehicle ‘OS’, which runs GNC control
+      code and provides an interface between our UI and hardware. In February of 2025,
+      after 3 years of development, we flew our prototype aircraft from Los Angeles
+      to Raleigh, NC. Aside from takeoff and landing, the entire flight was under
+      the control of my Rust-based software stack.
+
+
+      This video was recorded in the winter of ‘23 before the development of our UI and
+      demonstrates a simple Fly-by-Wire control law where the digital
+      sick (right hand) is interpreted as an absolute angle to hold relative to
+      the horizon. Therefore, releasing the stick levels the aircraft.
+
   - title: "scope"
-    # image: "/images/hdr_software_inflight.jpg"
     video: "/images/swe/scope.mp4"
     content: >
       In 2018, I was debugging an aspect of a game I was building and needed
@@ -42,6 +58,7 @@ features:
       "parallel loading bar" in purple. Since slices are dispatched to all available
       cores to be tessellated, the part loads in a nonlinear fashion. The user can
       still view the part as soon as the section they care about loads.
+      
   - title: "Games and Simulation"
     video: "/images/swe/nc.mp4"
     content: >
@@ -49,6 +66,8 @@ features:
       one of many such abandoned projects. Here, I modeled 800 spacecraft (rectangles)
       orbiting a central gravitational body. The player is the green-highlighted
       craft, and visibility is restricted to ships for which it has line of sight.
+      The simulation is run on an authoritative Rust-based server using a custom ECS.
+      Updates are streamed to an HTML canvas using websockets.
 
 
 ---
