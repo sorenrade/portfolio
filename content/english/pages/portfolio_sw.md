@@ -3,9 +3,16 @@ layout: portfolio
 
 # Banner
 banner:
-  title: "Soren Leanza Rademacher"
+  title: "Software Portfolio"
   content: >
-    Software Portfolio
+    Specialized in hard tech environments, with deep experience writing
+    safety-critical flight control software and programming large-format 3D
+    printers. Demonstrated versatility, with a proven ability to lead
+    and deliver projects ranging from procedural 3D geometry tools to
+    GUIs and full-stack web apps.
+
+  resume_link: /Soren-Rademacher-SWE.pdf
+  resume_title: Software Resume
   image: "/images/banner.png"
 
 # Features

@@ -11,6 +11,11 @@
             <p class="mb-8">
               {{ .content | markdownify }}
             </p>
+            <a
+              href="{{ .resume_link | relLangURL }}"
+              class="btn btn-primary btn-sm lg:inline-block">
+              <span style="padding: 40px;">{{ .resume_title }}</span>
+            </a>
           </div>
         </div>
       </div>

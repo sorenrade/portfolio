@@ -3,9 +3,11 @@ layout: portfolio
 
 # Banner
 banner:
-  title: "Soren Leanza Rademacher"
+  title: "Hardware Portfolio"
   content: >
-    Hardware Portfolio
+    8+ years of experience designing, building, and testing prototype-level mechanatronic systems.
+  resume_title: Hardware Resume
+  resume_link: /Soren-Rademacher-HWE.pdf
   image: "/images/banner.png"
 
 # Features
