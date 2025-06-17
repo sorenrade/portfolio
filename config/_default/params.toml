@@ -39,7 +39,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [navigation_button]
 enable = true
 label = "Contact Me"
-link = "contact"
+link = "https://www.linkedin.com/in/soren-rademacher"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
