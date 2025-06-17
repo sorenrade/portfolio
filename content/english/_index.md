@@ -19,9 +19,10 @@ features:
     image: "/images/hdr_software_inflight.jpg"
     content: >
       Specialized in hard tech environments, with deep experience writing safety-critical
-      flight control software and programming large-format 3D printers. Demonstrated pedigree
-      of versatility, with a proven ability to lead and deliver projects ranging from procedural
-      3D geometry tools to touchscreen GUIs and full-stack web apps.
+      flight control software and programming large-format 3D printers.
+      Demonstrated versatility, with a proven ability to lead and deliver
+      projects ranging from procedural 3D geometry tools to touchscreen GUIs and
+      full-stack web apps.
     button:
       enable: true
       label: Software Portfolio
