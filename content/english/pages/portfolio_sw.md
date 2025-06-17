@@ -27,7 +27,7 @@ features:
       sick (right hand) is interpreted as an absolute angle to hold relative to
       the horizon. Therefore, releasing the stick levels the aircraft.
 
-  - title: "scope"
+  - title: "Scope"
     video: "/images/swe/scope.mp4"
     content: >
       In 2018, I was debugging an aspect of a game I was building and needed
@@ -69,5 +69,28 @@ features:
       The simulation is run on an authoritative Rust-based server using a custom ECS.
       Updates are streamed to an HTML canvas using websockets.
 
+  - title: "3D Printing Research Tool"
+    video: "/images/swe/webui-log-filter.mp4"
+    content: >
+      I developed a web-based GUI for prototype 3D printers to improve experiment
+      reproducibility and documentation. I observed that our research engineers
+      often lost data or became confused about experimental outcomes because
+      key details—like firmware versions, model variations, or tunable process
+      parameters—were forgotten or incorrectly assumed to be irrelevant. I got the
+      go-ahead from my boss to spend some work hours fixing this problem. I built a
+      Git-backed system that tracks all facets of the print process. The interface
+      captures firmware, 3D models, parameter settings, and outcomes, and makes them
+      searchable, ensuring any experiment can be precisely reviewed or repeated. The
+      server itself is written in Rust and uses Diesel to manage state in a Postgres
+      database. The front end is handwritten HTML/CSS/JavaScript.
 
+
+      It's hard to demo this software without revealing proprietary information,
+      so I’ve only included a short clip of the print log filtering system.
+      Here, I’m filtering down prints that lasted more than 1000 seconds
+      and were started by me (SLR). This is just one aspect of the software.
+      There are also pages to view live video and telemetry as a print runs,
+      pages to manage models and script files, a built in script editor which
+      enforces that changes are documented and versioned, printer settings, user
+      management, and more.
 ---

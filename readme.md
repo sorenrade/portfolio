@@ -12,6 +12,10 @@ Similarly, the main page is also a copy of themes/hugoplate/layouts/index.html l
 as of this writing the only difference is the removal of the banner image. 
 When updating the template (see instructions in default readme below, I guess one would need
 to manually diff and merge.)
+
+### Dev Notes
+Ive been using this commad to develop so i can test on my phone as well:
+hugo serve --bind=0.0.0.0 --port=8080 --baseURL="http://11.11.11.2:8080"
  
 
 
