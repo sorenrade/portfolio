@@ -29,7 +29,7 @@ features:
       link: "/portfolio_sw"
 
   - title: "Hardware Engineering"
-    image: "/images/hw_engineering.jpg"
+    image: "/images/yes-im-not-wearing-eyepro.jpg"
     content: >
       8+ years of experience designing, building, and testing prototype-level mechanatronic systems.
     button:
