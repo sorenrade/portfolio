@@ -43,7 +43,7 @@ features:
         technology cannot print extreme overhangs. I acted as the RE for nearly all
         aspects of this project: I designed all the mechanical parts, machined them,
         programmed the processes, and ran experiments to test and refine the system.
-        [Patent here.](https://patents.google.com/patent/US20210308943A1).
+        [Patent here.](https://patents.google.com/patent/US20210308943A1)
 
 
   - title: "Dental Crown Printer"
