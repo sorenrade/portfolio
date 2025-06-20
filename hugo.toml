@@ -20,6 +20,10 @@ defaultContentLanguageInSubdir = false
 
 staticDir = ["static"]
 
+# soren needed for line-break shortcode to work
+[security]
+  enableInlineShortcodes = true
+
 ########################### Services #############################
 [services]
 [services.googleAnalytics]
