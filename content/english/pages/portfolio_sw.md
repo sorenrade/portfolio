@@ -31,7 +31,7 @@ features:
 
       This video was recorded in the winter of ‘23 before the development of our UI and
       demonstrates a simple Fly-by-Wire control law where the digital
-      sick (right hand) is interpreted as an absolute angle to hold relative to
+      stick (right hand) is interpreted as an absolute angle to hold relative to
       the horizon. Therefore, releasing the stick levels the aircraft.
 
   - title: "Scope"
