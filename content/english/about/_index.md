@@ -10,18 +10,18 @@ draft: false
 <link rel="stylesheet" href="/css/about.css">
 
   Programming clicked for me in my sophomore year of high school. A friend
-showed me how to create a loop in TI-BASIC, and all of a sudden, I felt like
-I could make my calculator do anything. I went home and stayed up till 2 am,
-hunched over my TI-84, building a ballistic target practice game inspired by
-Angry Birds. A few months later, I picked up Python so I could make a game
-in Blender. I wrote Python for years. I built overly ambitious games, overly
-ambitious UI toolkits, code to do my homework, code to scrape Wikipedia, to
-simulate natural selection, and to make art. I was obsessed. I already had a
-plan to go to school for mechanical engineering, and I stuck with it because I
-thought my programming obsession was a fad. Halfway through college, I realized
-it wasn’t; I just wanted to build systems without the hassle of real-world
-constraints. So, I picked up a computer science minor and finished my ME
-degree anyway.
+showed me how to create a loop in TI-BASIC, and I immediately understood the
+power it unlocked. I felt like I could make my calculator do anything. I
+went home and stayed up until 2 a.m., hunched over my TI-84, building a ballistic
+target practice game inspired by Angry Birds. A few months later, I picked up
+Python so I could make a game in Blender. I wrote Python for years. I built
+overly ambitious games, overly ambitious UI toolkits, code to do my homework,
+code to scrape Wikipedia, to simulate natural selection, and to make art. I was
+obsessed. I already had a plan to study mechanical engineering and stuck with
+it because I assumed my programming obsession was just a phase. Halfway
+through college, I realized it wasn’t. I just wanted to build systems without
+the hassle of real-world constraints. So I picked up a computer science minor
+and finished my ME degree anyway.
 
   In 2019, a portion of [Jonathan Blow’s talk “Preventing the
 Collapse of Civilization”](https://www.youtube.com/watch?v=pW-SOdj4Kkk&t=1345s)
@@ -32,20 +32,20 @@ the time, an established discipline with high standards for reliability. Cars
 start every time you go for a drive, and bridges don't collapse, but every
 time I use a computer, something stumbles. Sure, it's never life-threatening,
 but it brings that beautiful feeling of tool embodiment to a halt; one moment
-you are dancing, the next your leg falls off. In short, it's annoying.
+you're dancing, the next your leg falls off. In short, it's annoying.
 
-  I had been playing with Rust for a year, but in light of that realization, Rust’s
-extreme pedantry became a godsend. Maybe, it could save me from producing years
+  I had already been playing with Rust for a year, but in light of that realization, its
+extreme pedantry became a godsend. Maybe it could save me from producing years
 of middling, software-grade software. Maybe I could produce mechanical-grade
 software.
 
-  Working at [Airhart](https://airhartaero.com) provides an excellent
-opportunity to practice writing high-reliability, low-latency software. I've
+  Working at [Airhart](https://airhartaero.com) has given me an 
+opportunity to practice building high-reliability, low-latency systems. I've
 been lucky to have the freedom to experiment a lot, and it's paid dividends in
-knowledge. I built most of our software stack in Rust – about a dozen embedded
-processes and tools. The language isn’t perfect by any means, but I am writing
-mechanical-grade software. We haven't had a single fault in the air, tools boot
-instantly, and processes always behave. It feels like flying.
+knowledge. I built most of our software stack in Rust — about a dozen embedded
+processes and tools. The language isn’t perfect, but _I am_ writing
+mechanical-grade software. We haven’t had a single fault in the air. Tools boot
+instantly. Processes always behave. It feels like flying.
 
 {{<line-break>}}
 
