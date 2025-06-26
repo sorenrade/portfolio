@@ -5,6 +5,8 @@ downsampled images produced by the build process.
 
 Prose is located in content/english/_index.md & content/english/pages/portfolio_*.md
 
+Resumes are placed in static/ they get coppied into public/ automatically
+
 
 Was unclear on how to refine the hugo template without duplicating all the code so unfortunately
 the portfolio pages are just a copy paste of themes/hugoplate/layouts/index.html located in layouts/_default/portfolio.html.
