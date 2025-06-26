@@ -10,18 +10,17 @@ draft: false
 <link rel="stylesheet" href="/css/about.css">
 
   Programming clicked for me in my sophomore year of high school. A friend
-showed me how to create a loop in TI-BASIC, and I immediately understood the
-power it unlocked. I felt like I could make my calculator do anything. I
-went home and stayed up until 2 a.m., hunched over my TI-84, building a ballistic
-target practice game inspired by Angry Birds. A few months later, I picked up
-Python so I could make a game in Blender. I wrote Python for years. I built
-overly ambitious games, overly ambitious UI toolkits, code to do my homework,
-code to scrape Wikipedia, to simulate natural selection, and to make art. I was
-obsessed. I already had a plan to study mechanical engineering and stuck with
-it because I assumed my programming obsession was just a phase. Halfway
-through college, I realized it wasn’t. I just wanted to build systems without
-the hassle of real-world constraints. So I picked up a computer science minor
-and finished my ME degree anyway.
+showed me how to create a loop in TI-BASIC, and right away I felt I could make my
+calculator do anything. I went home and stayed up until 2 a.m., hunched over
+my TI-84, building a ballistic target practice game inspired by Angry Birds. A
+few months later, I picked up Python so I could make a game in Blender. I wrote
+Python for years. I built overly ambitious games, overly ambitious UI toolkits,
+code to do my homework, code to scrape Wikipedia, to simulate natural selection,
+and to make art. I was obsessed. I already had a plan to study mechanical
+engineering and stuck with it because I assumed my programming obsession was
+just a phase. Halfway through college, I realized it wasn’t. I just wanted to
+build systems without the hassle of real-world constraints. So I picked up a
+computer science minor and finished my ME degree anyway.
 
   In 2019, a portion of [Jonathan Blow’s talk “Preventing the
 Collapse of Civilization”](https://www.youtube.com/watch?v=pW-SOdj4Kkk&t=1345s)
